@@ -14,13 +14,13 @@
     "TEXT_MENTION": ["#FB0F59"],
     "TEXT_DEFAULT": ["#ffffff"],
     "INPUT_BACKGROUND": ["#141414", "#141414", "#141414"],
-    "CHANNEL_ICON": ["#E7FA43"],
+    "CHANNEL_ICON": ["#5F3AFC"],
     "INTERACTIVE_NORMAL": ["#5F3AFC"],
     "INTERACTIVE_HOVER": ["#FB0F59"],
     "INTERACTIVE_ACTIVE": ["#5F3AFC"],
     "INTERACTIVE_MUTED": ["#5F3AFC60"],
     "REDESIGN_BUTTON_SECONDARY_BORDER": ["#5F3AFC"],
-    "BUTTON_OUTLINE_BRAND_BACKGROUND": ["#E7FA43"],
+    "BUTTON_OUTLINE_BRAND_BACKGROUND": ["#5F3AFC"],
     "BUTTON_OUTLINE_BRAND_BOARDER": ["#5F3AFC"],
     "INPUT_BORDER": ["#5F3AFC"],
     "INPUT_BORDER_FOCUS": ["#FB0F59"],
@@ -36,7 +36,7 @@
     "BACKGROUND_NESTED_FLOATING": ["#181818"]
   },
   "background": {
-    "url": "https://raw.githubusercontent.com/n0t-a-username/revenge-themes/refs/heads/main/Images/splatoon.jpg",
+    "url": "https://cdn.discordapp.com/attachments/1022884262292234312/1553856747771404438/Untitled4_20260917140521.png?ex=6abac55d&is=6ab973dd&hm=bca7eef5d7f0dd673bc22850f0f48c372d385716ea82124d8e00767662c6a1cc&",
     "alpha": 0.5,
     "blur": 0.75
   },
@@ -52,7 +52,7 @@
     "PLUM_3": "#5F3AFC",
     "PLUM_11": "#5F3AFC",
     "PLUM_13": "#5F3AFC",
-    "PLUM_16": "#e7fa43",
+    "PLUM_16": "#5F3AFC",
     "GREEN_360": "#5F3AFC",
     "YELLOW_300": "#FB0F59",
     "ORANGE_345": "#FB0F59",
@@ -71,10 +71,10 @@
     "icons": {
       "ic_new_pins": ["#FB0F59"],
       "StatusStreaming": ["#5F3AFC"],
-      "StatusMobileOnline": ["#E7FA43"],
+      "StatusMobileOnline": ["#5F3AFC"],
       "StatusDND": ["#FB0F59"],
       "StatusOffline": ["#5F3AFC"],
-      "StatusOnline": ["#E7FA43"]
+      "StatusOnline": ["#5F3AFC"]
     }
   }
 }
